@@ -1,4 +1,4 @@
-# Diet and Exercise Recommendation system based on o esity classification.
+# Diet and Exercise Recommendation system based on Obesity Classification.
 
 Here in this project , we will be recommending personalized diet and exercise recommendation for everyone with the help of few inputs about there daily patterns , eating habits and some other metrics. 
 
